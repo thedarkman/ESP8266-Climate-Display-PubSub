@@ -6,4 +6,4 @@ http://bitluni.net/solar-powered-weather-station/
 
 Uses the following (external) libraries:
 * PubSubClient: https://pubsubclient.knolleary.net/
-* Adafruit SSD1306: https://github.com/adafruit/Adafruit_SSD1306
+* Forked Adafruit SSD1306 library to support the 64x48 Display: https://github.com/mcauser/Adafruit_SSD1306/tree/esp8266-64x48
